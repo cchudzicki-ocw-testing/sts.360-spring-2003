@@ -11,7 +11,9 @@ image_metadata:
     India, 1984. (Image courtesy of Susann Wilkinson.)'
   credit: ''
   image-alt: Michael Fischer learns to use a Gandhian spinning wheel of self-reliance.
+learning_resource_types: []
 resourcetype: Image
 title: Gandhi's Spinning Wheel (thumbnail)
+type: OCWImage
 uid: 7b6d52d5-53f5-0408-d094-2766fb4820d5
 ---
